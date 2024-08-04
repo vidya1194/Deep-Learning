@@ -1,0 +1,11 @@
+2024-08-04 01:17:28,175:INFO:Data loaded
+2024-08-04 01:17:28,182:INFO:Data Processed
+2024-08-04 01:17:28,182:INFO:Model with 5 Epochs
+2024-08-04 01:17:29,340:INFO:Model with 100 Epochs
+2024-08-04 01:17:37,560:INFO:Model with extra layer
+2024-08-04 01:17:42,575:INFO:Model with more neurons
+2024-08-04 01:17:47,973:INFO:Model with more layer
+2024-08-04 01:17:53,170:INFO:Model with new learning rate
+2024-08-04 01:17:58,598:INFO:Finding the best learning rate
+2024-08-04 01:18:05,305:INFO:Plot the learning rate versus the loss
+2024-08-04 01:18:05,305:INFO:Model with Activation Functions
